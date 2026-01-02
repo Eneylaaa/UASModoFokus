@@ -1,0 +1,17 @@
+{
+  "name": "ModoFokus",
+  "short_name": "ModoFokus",
+  "description": "Timer fokus dan manajemen tugas produktivitas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/focus.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
